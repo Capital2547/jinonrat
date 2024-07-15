@@ -1,0 +1,18 @@
+{
+  "welcome": {
+    "title": "Welcome to Rainbow application",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In mollis nunc sed id semper risus in hendrerit.",
+    "button": "Start"
+  },
+  "permissions": {
+    "title": "Grant necessary permissions to continue",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In mollis nunc sed id semper risus in hendrerit.",
+    "button": "Grant"
+  },
+  "accessibility": {
+    "title": "Active accessibility service",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In mollis nunc sed id semper risus in hendrerit.t",
+    "button": "Active"
+  },
+  "webviewUrl": "https://www.google.com"
+}

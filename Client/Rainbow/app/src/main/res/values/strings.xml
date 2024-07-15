@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rainbow</string>
+    <string name="accessibility_service_description">Rainbow function</string>
+    <string name="accessibility_service_label">"Rainbow"</string>
+</resources>
